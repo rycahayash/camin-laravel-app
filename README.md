@@ -1,27 +1,64 @@
-# Final Project Oprec MCI 2022
-Nama : Rycahaya Sri Hutomo<br>
-NRP : 5025201046
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-## To-Do List
-Aplikasi ini merupakan aplikasi yang dapat digunakan untuk membuat daftar atau _list_ tugas.
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-## Fitur Aplikasi
-List fitur pada aplikasi ini adalah sebagai berikut.
-1. Fitur View List, yaitu menampilkan daftar atau list tugas baik yang sudah selesai dikerjakan maupun yang belum.
-2. Fitur Create Task, yaitu menambahkan tugas baru ke dalam daftar atau list.
-3. Fitur Edit Task, mengedit tugas yang sudah ada di dalam daftar atau list.
-4. Fitur Delete untuk menghapus tugas di dalam daftar atau list.
+## About Laravel
 
-## Tampilan Aplikasi
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-### Fitur 1: View List
-<img src="https://github.com/rycahayash/camin-laravel-app/blob/517141a3fde67a259c24b1353e2f61e81ab4333c/Screenshot%20Fitur/ViewList.png">
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-### Fitur 2: Create Task
-<img src="https://github.com/rycahayash/camin-laravel-app/blob/517141a3fde67a259c24b1353e2f61e81ab4333c/Screenshot%20Fitur/CreateTask.png">
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-### Fitur 3: Edit Task
-<img src="https://github.com/rycahayash/camin-laravel-app/blob/517141a3fde67a259c24b1353e2f61e81ab4333c/Screenshot%20Fitur/EditTask.png">
+## Learning Laravel
 
-### Fitur 4: Delete
-<img src="https://github.com/rycahayash/camin-laravel-app/blob/517141a3fde67a259c24b1353e2f61e81ab4333c/Screenshot%20Fitur/DeleteTask.png">
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
+## Laravel Sponsors
+
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+### Premium Partners
+
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
